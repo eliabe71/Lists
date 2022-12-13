@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674820148557",
+    "project_id": "list-41b4d",
+    "storage_bucket": "list-41b4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674820148557:android:73cc98c9579e7224f2bb04",
+        "android_client_info": {
+          "package_name": "br.com.quixada.elpe.lists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674820148557-f8c9ccb8bt0bk9o4bgu3as0r4tcrc28f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5djaba6JId6FdPQkYeOK2EI41NRbxLsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674820148557-f8c9ccb8bt0bk9o4bgu3as0r4tcrc28f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
